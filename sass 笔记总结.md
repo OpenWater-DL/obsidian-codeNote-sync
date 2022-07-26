@@ -132,7 +132,7 @@ font-size:$f.text-lg;
 # 4.mixin 函数
 变量代表一个值，而函数可以起到function的作用。
 也可以直接充当某些代码片段的模板。
-详情看这篇[[22_122_1013 sass的响应式@media与@mixin @content]]
+详情看这篇[[Web/css/22_122_1013 sass的响应式@media与@mixin @content]]
 
 ![[src/img/Pasted image 20220515232644.png]]
 
