@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Readme.md",
+            "file": "GIT/git命令速查表.md",
             "mode": "source",
             "source": false
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "切换",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "GIT/git命令速查表.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "GIT/git命令速查表.md"
               }
             }
           },
@@ -110,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Readme.md",
+                "file": "GIT/git命令速查表.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,13 +150,13 @@
   },
   "active": "040f65f25a19679a",
   "lastOpenFiles": [
+    "Readme.md",
     "GIT/202110290124 Git 使用git-orphan清理git历史.md",
     "GIT/202110281633 Git 设置全局忽略文件的方法.md",
     "GIT/✨ Git笔记汇总！.md",
     "Wordpress/wordpress 增加新的文章类.md",
     "UDM 常用功能笔记.md",
     "Web/css/sass 笔记总结.md",
-    "Readme.md",
     "22_104_249 for饺子的个人网站.md",
     "Web/HEXO/22_726_240 Hexo 迁移同步的蛋疼记录.md",
     "Web/css/css font-face的使用.md"
