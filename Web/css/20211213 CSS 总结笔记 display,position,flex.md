@@ -49,7 +49,7 @@ block：p，div,p,h1...h6,ol,ul,dl,table,address,blockquote,form
 
 使用了absolute的子元素，虽然会脱离正常的文档流，但是会落到紧贴自己父元素的左下方
 
-[[22_120_748 css absolute详细辨析。]]
+[[Web/css/22_120_748 css absolute详细辨析。]]
 
 ## 相对组
 - relative：相对于自己的正常位置定位（不脱离文档流）
