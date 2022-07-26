@@ -63,6 +63,7 @@ $ git remote add <remote> <url> 添加一个新的远程仓库
 $ git fetch <remote> 获取远程分支，但不更新本地分支，另需 merge
 $ git pull <remote> <branch> 获取远程分支，并更新本地分支
 $ git push <remote> <branch> 推送本地更新到远程分支
+$ git push origin 本地分支:远端希望创建的分支
 $ git push <remote> --delete <branch> 删除一个远程分支
 $ git push --tags 推送本地标签
 ```
