@@ -1,0 +1,1 @@
+在非content.js的页面里（如popup和background里），想要获取tabs的信息

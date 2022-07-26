@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "60e19b915142c3b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "040f65f25a19679a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GIT/✨ Git笔记汇总！.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "836579e454b8b0ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "d125d6a814181a35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0cbbd001565f995",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cad351231f530139",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "a9772b7f95a79e85",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ad2fab7561c614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "395974366bef3368",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GIT/✨ Git笔记汇总！.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1389574ad4ef04d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GIT/✨ Git笔记汇总！.md"
+              }
+            }
+          },
+          {
+            "id": "a46f87a000f08fbf",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "GIT/✨ Git笔记汇总！.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4301047461152785,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 489.5,
+    "collapsed": true
+  },
+  "active": "e1389574ad4ef04d",
+  "lastOpenFiles": [
+    "22_727_124 iterm2 配置教程.md",
+    "22_727_1252 terminal 终端常用操作.md",
+    "Mac/mac终端自动补全.md",
+    "阿里云·腾讯云/宝塔使用方法.md",
+    "Wordpress/21_1121_248  wordpress+阿里云+宝塔.md",
+    "GIT/✨ Git笔记汇总！.md",
+    "22_726_240 Hexo 迁移同步的蛋疼记录.md",
+    "Web/202105161926 轻巧瀑布流布局colcade.md",
+    "Web/拆解joyceShi的网站.md",
+    "Web/JS/JQuery.md"
+  ]
+}
