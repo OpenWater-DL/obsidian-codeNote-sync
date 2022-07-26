@@ -7,8 +7,12 @@
         "id": "040f65f25a19679a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Readme.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Readme.md"
+              }
             }
           },
           {
@@ -89,6 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Readme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +133,7 @@
     "width": 489.5,
     "collapsed": true
   },
-  "active": "e0cbbd001565f995",
+  "active": "040f65f25a19679a",
   "lastOpenFiles": [
     "GIT/Readme.md",
     "GIT/✨ Git笔记汇总！.md",
