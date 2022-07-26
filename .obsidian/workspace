@@ -7,12 +7,8 @@
         "id": "040f65f25a19679a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "GIT/Readme.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Readme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GIT/Readme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -96,7 +89,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GIT/Readme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,8 +125,9 @@
     "width": 489.5,
     "collapsed": true
   },
-  "active": "040f65f25a19679a",
+  "active": "e0cbbd001565f995",
   "lastOpenFiles": [
+    "GIT/Readme.md",
     "GIT/✨ Git笔记汇总！.md",
     "22_727_124 iterm2 配置教程.md",
     "22_727_1252 terminal 终端常用操作.md",
@@ -143,7 +136,6 @@
     "Wordpress/21_1121_248  wordpress+阿里云+宝塔.md",
     "22_726_240 Hexo 迁移同步的蛋疼记录.md",
     "Web/202105161926 轻巧瀑布流布局colcade.md",
-    "Web/拆解joyceShi的网站.md",
-    "Web/JS/JQuery.md"
+    "Web/拆解joyceShi的网站.md"
   ]
 }
