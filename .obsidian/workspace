@@ -6,11 +6,11 @@
       {
         "id": "040f65f25a19679a",
         "type": "leaf",
-
+        "dimension": 73.2620320855615,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GIT/git命令速查表.md",
+            "file": "Readme.md",
             "mode": "source",
             "source": false
           }
@@ -19,6 +19,7 @@
       {
         "id": "aa50ed1afd3f7290",
         "type": "leaf",
+        "dimension": 26.737967914438503,
         "state": {
           "type": "empty",
           "state": {}
@@ -58,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/git命令速查表.md",
+                "file": "Readme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/git命令速查表.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GIT/git命令速查表.md",
+                "file": "Readme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,9 +145,7 @@
   },
   "active": "040f65f25a19679a",
   "lastOpenFiles": [
-
-   
-
+    "GIT/git命令速查表.md",
     "conflict-files-obsidian-git.md",
     "Readme.md",
     "P5.js/22_523_85 js sort()数组排序.md",
@@ -156,9 +154,6 @@
     "GIT/202110290124 Git 使用git-orphan清理git历史.md",
     "GIT/✨ Git笔记汇总！.md",
     "Wordpress/wordpress 增加新的文章类.md",
-    "UDM 常用功能笔记.md",
-
-    "Web/css/sass 笔记总结.md"
-
+    "UDM 常用功能笔记.md"
   ]
 }
