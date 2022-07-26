@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "aa50ed1afd3f7290",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -135,15 +147,15 @@
   },
   "active": "040f65f25a19679a",
   "lastOpenFiles": [
-    "P5.js/22_523_85 js sort()数组排序.md",
+    "conflict-files-obsidian-git.md",
     "Readme.md",
+    "P5.js/22_523_85 js sort()数组排序.md",
     "GIT/未命名.md",
     "GIT/202110281633 Git 设置全局忽略文件的方法.md",
     "GIT/202110290124 Git 使用git-orphan清理git历史.md",
     "GIT/✨ Git笔记汇总！.md",
     "Wordpress/wordpress 增加新的文章类.md",
     "UDM 常用功能笔记.md",
-    "Web/css/sass 笔记总结.md",
-    "22_104_249 for饺子的个人网站.md"
+    "Web/css/sass 笔记总结.md"
   ]
 }
