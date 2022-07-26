@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GIT/202110290124 Git 使用git-orphan清理git历史.md",
+            "file": "Readme.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/202110290124 Git 使用git-orphan清理git历史.md",
+                "file": "Readme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/202110290124 Git 使用git-orphan清理git历史.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GIT/202110290124 Git 使用git-orphan清理git历史.md",
+                "file": "Readme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,6 +149,7 @@
   },
   "active": "040f65f25a19679a",
   "lastOpenFiles": [
+    "GIT/202110290124 Git 使用git-orphan清理git历史.md",
     "GIT/202110281633 Git 设置全局忽略文件的方法.md",
     "GIT/✨ Git笔记汇总！.md",
     "Wordpress/wordpress 增加新的文章类.md",
@@ -157,7 +158,6 @@
     "Readme.md",
     "22_104_249 for饺子的个人网站.md",
     "Web/HEXO/22_726_240 Hexo 迁移同步的蛋疼记录.md",
-    "Web/css/css font-face的使用.md",
-    "Web/详解php占位符 printf()函数.md"
+    "Web/css/css font-face的使用.md"
   ]
 }
