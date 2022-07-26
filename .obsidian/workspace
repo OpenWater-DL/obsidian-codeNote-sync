@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "22_104_249 for饺子的个人网站.md",
+            "file": "GIT/202110290124 Git 使用git-orphan清理git历史.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22_104_249 for饺子的个人网站.md",
+                "file": "GIT/202110290124 Git 使用git-orphan清理git历史.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22_104_249 for饺子的个人网站.md"
+                "file": "GIT/202110290124 Git 使用git-orphan清理git历史.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "22_104_249 for饺子的个人网站.md",
+                "file": "GIT/202110290124 Git 使用git-orphan清理git历史.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,15 +149,15 @@
   },
   "active": "040f65f25a19679a",
   "lastOpenFiles": [
+    "GIT/202110281633 Git 设置全局忽略文件的方法.md",
+    "GIT/✨ Git笔记汇总！.md",
+    "Wordpress/wordpress 增加新的文章类.md",
+    "UDM 常用功能笔记.md",
+    "Web/css/sass 笔记总结.md",
+    "Readme.md",
+    "22_104_249 for饺子的个人网站.md",
     "Web/HEXO/22_726_240 Hexo 迁移同步的蛋疼记录.md",
     "Web/css/css font-face的使用.md",
-    "Web/详解php占位符 printf()函数.md",
-    "P5.js/202110271600 研究Project - 在手机屏幕上模拟纸张.md",
-    "🚩 HEXO博客自用开发文档 for Openwater.ink.md",
-    "VSCODE/22_205_519 vscode for adobe script.md",
-    "Web/HEXO/Hexo文件图解.excalidraw",
-    "Processing/22_118_925 p5.js loading animation.md",
-    "Web/JS/22_112_114 完善的瀑布流布局Masonry.js.md",
-    "Web/22_219_127 域名解析.md"
+    "Web/详解php占位符 printf()函数.md"
   ]
 }

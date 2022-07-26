@@ -144,7 +144,7 @@ ttaxonomy是比“分类”更高一级的“神分类”。
 
 
 ## 后台增加新的“类文章”选项。
-[[wordpress 增加新的文章类]]
+[[Wordpress/wordpress 增加新的文章类]]
 ![[src/img/Pasted image 20220301211217.png|200]]
 
 
