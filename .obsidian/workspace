@@ -6,20 +6,10 @@
       {
         "id": "040f65f25a19679a",
         "type": "leaf",
-        "dimension": 62.01456310679612,
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "c8263f0179919b84",
-        "type": "leaf",
-        "dimension": 37.98543689320388,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "P5.js/22_523_85 js sort()数组排序.md",
+            "file": "Readme.md",
             "mode": "source",
             "source": false
           }
@@ -79,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Readme.md"
+              }
             }
           },
           {
@@ -103,6 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Readme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,17 +133,17 @@
     "width": 489.5,
     "collapsed": true
   },
-  "active": "e0cbbd001565f995",
+  "active": "040f65f25a19679a",
   "lastOpenFiles": [
-    "GIT/202110281633 Git 设置全局忽略文件的方法.md",
+    "P5.js/22_523_85 js sort()数组排序.md",
+    "Readme.md",
     "GIT/未命名.md",
+    "GIT/202110281633 Git 设置全局忽略文件的方法.md",
     "GIT/202110290124 Git 使用git-orphan清理git历史.md",
     "GIT/✨ Git笔记汇总！.md",
     "Wordpress/wordpress 增加新的文章类.md",
     "UDM 常用功能笔记.md",
     "Web/css/sass 笔记总结.md",
-    "Readme.md",
-    "22_104_249 for饺子的个人网站.md",
-    "Web/HEXO/22_726_240 Hexo 迁移同步的蛋疼记录.md"
+    "22_104_249 for饺子的个人网站.md"
   ]
 }
