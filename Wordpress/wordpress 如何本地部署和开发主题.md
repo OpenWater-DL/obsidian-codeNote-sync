@@ -72,7 +72,7 @@ function myfunction(){}
  ```
 
 有待深入学习
-[[详解php占位符 printf()函数]]
+[[Web/详解php占位符 printf()函数]]
 [What does the value of '%5$s' mean within Wordpress category listing?](https://stackoverflow.com/questions/32600160/what-does-the-value-of-5s-mean-within-wordpress-category-listing)
 
 [[wordpress常用函数]]
